@@ -415,5 +415,3 @@ MIT License. See `LICENSE` when added.
 Karan Sharma
 
 - GitHub: [karan-sharma22](https://github.com/karan-sharma22)
-#   A I - a s s i s t a n t - f o r - S Q L  
- 
